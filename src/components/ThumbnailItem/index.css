@@ -1,0 +1,12 @@
+.list-item{
+    list-style-type:none;
+}
+.btn{
+    background:none;
+    border:none;
+    opacity: 0.5;
+}
+.btn-updated{
+    
+    opacity:1;
+}
